@@ -1,0 +1,16 @@
+{
+  "name": "ohlc-timeframe-converter",
+  "version": "0.0.1",
+  "description": "Converts OHLC 1 minute data points (forex) to higher timeframes (e.g. 5 minutes)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ts-de/ohlc-timeframe-converter"
+  },
+  "main": "m1.js",
+  "license": "UNLICENSED",
+  "author": "https://github.com/ts-de",
+  "devDependencies": {
+    "fast-csv": "^2.4.0",
+    "mysql": "^2.13.0"
+  }
+}
